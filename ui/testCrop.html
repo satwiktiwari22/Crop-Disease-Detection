@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Disease Detection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #2c742f;
+            border-bottom: 2px solid #2c742f;
+            padding-bottom: 10px;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .upload-section {
+            flex: 1;
+            min-width: 300px;
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .result-section {
+            flex: 2;
+            min-width: 300px;
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .image-preview {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .hidden {
+            display: none;
+        }
+        button {
+            background-color: #2c742f;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+        button:hover {
+            background-color: #1e5420;
+        }
+        input[type="file"] {
+            margin-bottom: 10px;
+        }
+        .loader {
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #2c742f;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .prediction-result {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f0f8f0;
+            border-radius: 5px;
+        }
+        .confidence-bar {
+            height: 20px;
+            background-color: #ddd;
+            border-radius: 10px;
+            margin: 10px 0;
+        }
+        .confidence-level {
+            height: 100%;
+            background-color: #2c742f;
+            border-radius: 10px;
+            text-align: right;
+            padding-right: 10px;
+            color: white;
+            line-height: 20px;
+        }
+        .tab-buttons {
+            display: flex;
+            margin-bottom: 15px;
+        }
+        .tab-button {
+            padding: 8px 15px;
+            background-color: #f0f0f0;
+            border: 1px solid #ddd;
+            border-bottom: none;
+            cursor: pointer;
+            margin-right: 5px;
+            border-radius: 5px 5px 0 0;
+        }
+        .tab-button.active {
+            background-color: #fff;
+            border-bottom: 1px solid #fff;
+        }
+        .suggestion-tab {
+            border: 1px solid #ddd;
+            padding: 15px;
+            background-color: #fff;
+        }
+        .error-message {
+            color: #d33;
+            padding: 10px;
+            background-color: #fee;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Crop Disease Detection</h1>
+    
+    <div class="container">
+        <div class="upload-section">
+            <h2>Upload Image</h2>
+            <input type="file" id="imageInput" accept="image/*">
+            <button onclick="analyzeImage()">Analyze Image</button>
+            
+            <div id="imagePreviewContainer" class="hidden">
+                <h3>Image Preview</h3>
+                <img id="imagePreview" class="image-preview" alt="Preview">
+            </div>
+        </div>
+        
+        <div class="result-section">
+            <h2>Analysis Results</h2>
+            <div id="loader" class="loader hidden"></div>
+            <div id="resultContent" class="hidden">
+                <div class="prediction-result">
+                    <h3>Prediction: <span id="className"></span></h3>
+                    <p>Confidence: <span id="confidenceValue"></span>%</p>
+                    <div class="confidence-bar">
+                        <div id="confidenceBar" class="confidence-level"></div>
+                    </div>
+                    <p>Processing Time: <span id="processingTime"></span> ms</p>
+                </div>
+                
+                <div id="suggestionSection" class="hidden">
+                    <h3>Suggestions</h3>
+                    <div class="tab-buttons">
+                        <div class="tab-button active" onclick="showTab('english')">English</div>
+                        <div class="tab-button" onclick="showTab('hindi')">Hindi</div>
+                    </div>
+                    
+                    <div id="englishTab" class="suggestion-tab">
+                        <h4>Causes:</h4>
+                        <p id="causesEn"></p>
+                        <h4>Solutions:</h4>
+                        <p id="solutionsEn"></p>
+                    </div>
+                    
+                    <div id="hindiTab" class="suggestion-tab hidden">
+                        <h4>कारण:</h4>
+                        <p id="causesHi"></p>
+                        <h4>समाधान:</h4>
+                        <p id="solutionsHi"></p>
+                    </div>
+                </div>
+                
+                <div id="errorContainer" class="error-message hidden">
+                    <p id="errorMessage"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Preview image when selected
+        document.getElementById('imageInput').addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    document.getElementById('imagePreview').src = e.target.result;
+                    document.getElementById('imagePreviewContainer').classList.remove('hidden');
+                };
+                reader.readAsDataURL(file);
+            }
+        });
+
+        // Switch between English and Hindi tabs
+        function showTab(tabName) {
+            // Hide all tabs
+            document.getElementById('englishTab').classList.add('hidden');
+            document.getElementById('hindiTab').classList.add('hidden');
+            
+            // Show selected tab
+            document.getElementById(tabName + 'Tab').classList.remove('hidden');
+            
+            // Update active tab button
+            document.querySelectorAll('.tab-button').forEach(button => {
+                button.classList.remove('active');
+            });
+            event.target.classList.add('active');
+        }
+
+        // Analyze the uploaded image
+        async function analyzeImage() {
+            const imageInput = document.getElementById('imageInput');
+            const file = imageInput.files[0];
+            
+            if (!file) {
+                alert('Please select an image first');
+                return;
+            }
+            
+            // Show loader and hide results
+            document.getElementById('loader').classList.remove('hidden');
+            document.getElementById('resultContent').classList.add('hidden');
+            
+            const formData = new FormData();
+            formData.append('file', file);
+            
+            try {
+                const response = await fetch('http://localhost:8000/predict/', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                if (!response.ok) {
+                    throw new Error(`Error: ${response.status} ${response.statusText}`);
+                }
+                
+                const data = await response.json();
+                
+                // Hide loader and show results
+                document.getElementById('loader').classList.add('hidden');
+                document.getElementById('resultContent').classList.remove('hidden');
+                document.getElementById('errorContainer').classList.add('hidden');
+                
+                // Update prediction results
+                document.getElementById('className').textContent = data.prediction.class_name;
+                document.getElementById('confidenceValue').textContent = data.prediction.confidence;
+                document.getElementById('confidenceBar').style.width = `${data.prediction.confidence}%`;
+                document.getElementById('processingTime').textContent = data.processing_time_ms;
+                
+                // Check if suggestions are available
+                if (data.suggestions && (data.suggestions.causes || data.suggestions.solutions)) {
+                    document.getElementById('suggestionSection').classList.remove('hidden');
+                    
+                    // Set English content
+                    if (data.suggestions.causes && data.suggestions.causes.en) {
+                        document.getElementById('causesEn').textContent = data.suggestions.causes.en;
+                    } else {
+                        document.getElementById('causesEn').textContent = "No information available";
+                    }
+                    
+                    if (data.suggestions.solutions && data.suggestions.solutions.en) {
+                        document.getElementById('solutionsEn').textContent = data.suggestions.solutions.en;
+                    } else {
+                        document.getElementById('solutionsEn').textContent = "No information available";
+                    }
+                    
+                    // Set Hindi content
+                    if (data.suggestions.causes && data.suggestions.causes.hi) {
+                        document.getElementById('causesHi').textContent = data.suggestions.causes.hi;
+                    } else {
+                        document.getElementById('causesHi').textContent = "जानकारी उपलब्ध नहीं है";
+                    }
+                    
+                    if (data.suggestions.solutions && data.suggestions.solutions.hi) {
+                        document.getElementById('solutionsHi').textContent = data.suggestions.solutions.hi;
+                    } else {
+                        document.getElementById('solutionsHi').textContent = "जानकारी उपलब्ध नहीं है";
+                    }
+                } else {
+                    document.getElementById('suggestionSection').classList.add('hidden');
+                }
+                
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('loader').classList.add('hidden');
+                document.getElementById('resultContent').classList.remove('hidden');
+                document.getElementById('suggestionSection').classList.add('hidden');
+                document.getElementById('errorContainer').classList.remove('hidden');
+                document.getElementById('errorMessage').textContent = 'Error: ' + error.message;
+            }
+        }
+    </script>
+</body>
+</html>

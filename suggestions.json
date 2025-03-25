@@ -1,0 +1,422 @@
+{
+  "0": {
+    "causes": {
+      "en": "American Bollworm (Helicoverpa armigera) infestation occurs due to warm humid conditions and poor field management. Moths lay eggs on cotton buds and bolls, and larvae feed on them causing damage.",
+      "hi": "अमेरिकन बॉलवर्म (हेलिकोवर्पा आर्मिजेरा) का प्रकोप गर्म और नम मौसम और खेत की ठीक से देखभाल न करने के कारण होता है।  मादा पतंगे कपास की कलियों और डोडों पर अंडे देती हैं, और लार्वा उन्हें खाकर नुकसान पहुंचाते हैं।"
+    },
+    "solutions": {
+      "en": "Use pheromone traps to monitor moth activity. Apply neem-based insecticides or Bacillus thuringiensis (Bt) for biological control. Practice crop rotation and remove plant debris after harvest to break pest cycle.",
+      "hi": "पतंगों की गतिविधि पर नजर रखने के लिए फेरोमोन ट्रैप का इस्तेमाल करें। जैविक नियंत्रण के लिए नीम-आधारित कीटनाशक या बैसिलस थुरिंजिएंसिस (बीटी) का प्रयोग करें। फसल चक्र अपनाएं और कीटों के जीवन चक्र को तोड़ने के लिए कटाई के बाद पौधों के अवशेषों को हटा दें।"
+    }
+  },
+  "1": {
+    "causes": {
+      "en": "Anthracnose on cotton is caused by the fungus Colletotrichum gossypii. It thrives in warm, humid conditions and can be spread by infected seeds, rain splash, and insects.",
+      "hi": "कपास में एन्थ्रेक्नोज रोग Colletotrichum gossypii नामक कवक के कारण होता है। यह गर्म, नम परिस्थितियों में पनपता है और संक्रमित बीजों, बारिश के छींटों और कीड़ों द्वारा फैलता है।"
+    },
+    "solutions": {
+      "en": "Use disease-free seeds. Apply fungicides containing copper or chlorothalonil. Practice crop rotation with non-host crops. Remove and destroy infected plant parts to reduce the spread of the disease.",
+      "hi": "रोग-मुक्त बीजों का उपयोग करें। कॉपर या क्लोरोथालोनिल युक्त कवकनाशी का छिड़काव करें। गैर-होस्ट फसलों के साथ फसल चक्र अपनाएं। रोग के प्रसार को कम करने के लिए संक्रमित पौधों के हिस्सों को हटाकर नष्ट कर दें।"
+    }
+  },
+  "2": {
+    "causes": {
+      "en": "Armyworms are the larvae of several moth species. They are highly mobile and can cause significant damage by feeding on leaves, stems, and fruits, especially during outbreaks.",
+      "hi": "आर्मीवर्म कई प्रकार के पतंगों के लार्वा होते हैं। ये बहुत तेजी से फैलते हैं और पत्तियों, तनों और फलों को खाकर भारी नुकसान पहुंचा सकते हैं, खासकर जब ये बड़ी संख्या में होते हैं।"
+    },
+    "solutions": {
+      "en": "Monitor fields regularly for armyworm presence. Apply insecticides like chlorpyrifos or spinosad when necessary. Use biological control agents such as parasitic wasps and birds. Practice good weed control.",
+      "hi": "खेतों में आर्मीवर्म की उपस्थिति के लिए नियमित रूप से निगरानी करें। आवश्यकता पड़ने पर क्लोरपाइरीफोस या स्पinosad जैसे कीटनाशकों का छिड़काव करें। परजीवी ततैया और पक्षियों जैसे जैविक नियंत्रण एजेंटों का उपयोग करें। खरपतवार नियंत्रण का ध्यान रखें।"
+    }
+  },
+  "3": {
+    "causes": {
+      "en": "Bacterial blight in rice is caused by Xanthomonas oryzae pv. oryzae. It is spread through infected seeds, irrigation water, and wind. High humidity and rainfall favor disease development.",
+      "hi": "चावल में बैक्टीरियल ब्लाइट रोग Xanthomonas oryzae pv. oryzae के कारण होता है। यह संक्रमित बीजों, सिंचाई के पानी और हवा के माध्यम से फैलता है। उच्च आर्द्रता और वर्षा रोग के विकास के लिए अनुकूल होती है।"
+    },
+    "solutions": {
+      "en": "Use certified disease-free seeds. Apply copper-based bactericides. Improve field drainage to reduce waterlogging. Practice crop rotation with non-rice crops. Remove and burn infected straw and stubble.",
+      "hi": "प्रमाणित रोग-मुक्त बीजों का उपयोग करें। कॉपर-आधारित जीवाणुनाशकों का छिड़काव करें। जलभराव कम करने के लिए खेत में जल निकासी में सुधार करें। गैर-चावल फसलों के साथ फसल चक्र अपनाएं। संक्रमित पुआल और ठूंठ को हटाकर जला दें।"
+    }
+  },
+  "4": {
+    "causes": {
+      "en": "Brown spot in rice is caused by the fungus Cochliobolus miyabeanus. It is prevalent in areas with high humidity and poorly drained soils. Nutrient deficiency can also increase susceptibility.",
+      "hi": "चावल में भूरा धब्बा रोग Cochliobolus miyabeanus नामक कवक के कारण होता है। यह उच्च आर्द्रता और खराब जल निकासी वाली मिट्टी वाले क्षेत्रों में अधिक होता है। पोषक तत्वों की कमी भी संवेदनशीलता को बढ़ा सकती है।"
+    },
+    "solutions": {
+      "en": "Use disease-resistant varieties. Treat seeds with fungicides. Apply fungicides like propiconazole or mancozeb. Ensure proper field drainage and balanced fertilization. Practice crop rotation.",
+      "hi": "रोग प्रतिरोधी किस्मों का उपयोग करें। बीजों को कवकनाशी से उपचारित करें। प्रोपिकोनाज़ोल या मैनकोज़ेब जैसे कवकनाशी का छिड़काव करें। खेत में उचित जल निकासी और संतुलित उर्वरक सुनिश्चित करें। फसल चक्र अपनाएं।"
+    }
+  },
+  "5": {
+    "causes": {
+      "en": "Common rust in maize is caused by the fungus Puccinia sorghi. Cool, humid conditions favor disease development. Spores are spread by wind.",
+      "hi": "मक्का में सामान्य रतुआ रोग Puccinia sorghi नामक कवक के कारण होता है। ठंडा, नम मौसम रोग के विकास के लिए अनुकूल होता है। बीजाणु हवा द्वारा फैलते हैं।"
+    },
+    "solutions": {
+      "en": "Use rust-resistant maize varieties. Apply fungicides like propiconazole or azoxystrobin. Practice crop rotation. Remove and destroy infected plant debris.",
+      "hi": "रतुआ प्रतिरोधी मक्का किस्मों का उपयोग करें। प्रोपिकोनाज़ोल या एज़ोक्सिस्ट्रोबिन जैसे कवकनाशी का छिड़काव करें। फसल चक्र अपनाएं। संक्रमित पौधों के अवशेषों को हटाकर नष्ट कर दें।"
+    }
+  },
+  "6": {
+    "causes": {
+      "en": "Cotton aphids are small, soft-bodied insects that suck sap from cotton plants. They thrive in warm, dry conditions and can cause stunted growth and reduced yield. They also secrete honeydew, leading to sooty mold.",
+      "hi": "कपास के एफिड छोटे, कोमल शरीर वाले कीड़े होते हैं जो कपास के पौधों से रस चूसते हैं। वे गर्म, शुष्क परिस्थितियों में पनपते हैं और पौधों की वृद्धि और उपज को कम कर सकते हैं। वे हनीड्यू भी स्रावित करते हैं, जिससे कालिख जैसा फफूंद हो जाता है।"
+    },
+    "solutions": {
+      "en": "Encourage natural enemies like ladybugs and lacewings. Apply insecticidal soap or neem oil. Use systemic insecticides like imidacloprid if infestation is severe. Practice good weed control.",
+      "hi": "लेडीबग और लेस विंग्स जैसे प्राकृतिक शत्रुओं को प्रोत्साहित करें। कीटनाशक साबुन या नीम के तेल का छिड़काव करें। यदि संक्रमण गंभीर है तो इमिडाक्लोप्रिड जैसे प्रणालीगत कीटनाशकों का उपयोग करें। खरपतवार नियंत्रण का ध्यान रखें।"
+    }
+  },
+  "7": {
+    "causes": {
+      "en": "Flag smut in wheat is caused by the fungus Urocystis tritici. It is a soil-borne disease that infects seedlings, leading to stunted growth and reduced tillering.",
+      "hi": "गेहूं में ध्वज स्मट रोग Urocystis tritici नामक कवक के कारण होता है। यह मिट्टी जनित रोग है जो अंकुरों को संक्रमित करता है, जिससे पौधों की वृद्धि रुक जाती है और टिलरिंग कम हो जाती है।"
+    },
+    "solutions": {
+      "en": "Use resistant wheat varieties. Treat seeds with fungicides like carboxin. Practice long-term crop rotation with non-host crops. Avoid planting in heavily infested fields.",
+      "hi": "प्रतिरोधी गेहूं किस्मों का उपयोग करें। कार्बॉक्सिन जैसे कवकनाशी के साथ बीजों का उपचार करें। गैर-होस्ट फसलों के साथ दीर्घकालिक फसल चक्र अपनाएं। अत्यधिक संक्रमित खेतों में बुवाई से बचें।"
+    }
+  },
+  "8": {
+    "causes": {
+      "en": "Gray leaf spot in maize is caused by the fungus Cercospora zeae-maydis. It is favored by warm, humid conditions and no-till practices. Spores are spread by wind and rain.",
+      "hi": "मक्का में ग्रे लीफ स्पॉट रोग Cercospora zeae-maydis नामक कवक के कारण होता है। यह गर्म, नम परिस्थितियों और नो-टिल प्रथाओं द्वारा पसंद किया जाता है। बीजाणु हवा और बारिश से फैलते हैं।"
+    },
+    "solutions": {
+      "en": "Use resistant maize hybrids. Apply fungicides like strobilurins or triazoles. Practice crop rotation with non-host crops. Bury or remove infected crop residue.",
+      "hi": "प्रतिरोधी मक्का संकर का उपयोग करें। स्ट्रोबिलुरिन या ट्रायज़ोल जैसे कवकनाशी का छिड़काव करें। गैर-होस्ट फसलों के साथ फसल चक्र अपनाएं। संक्रमित फसल अवशेषों को दफनाएं या हटा दें।"
+    }
+  },
+  "9": {
+    "causes": {
+      "en": "Healthy maize indicates the absence of any major diseases or pest infestations. Proper crop management practices contribute to healthy growth.",
+      "hi": "स्वस्थ मक्का का मतलब है कि कोई बड़ा रोग या कीट infestation नहीं है। उचित फसल प्रबंधन प्रथाएं स्वस्थ विकास में योगदान करती हैं।"
+    },
+    "solutions": {
+      "en": "Maintain good soil health through balanced fertilization. Ensure adequate irrigation and drainage. Monitor for pests and diseases regularly. Practice timely weed control.",
+      "hi": "संतुलित उर्वरक के माध्यम से मिट्टी के अच्छे स्वास्थ्य को बनाए रखें। पर्याप्त सिंचाई और जल निकासी सुनिश्चित करें। नियमित रूप से कीटों और रोगों के लिए निगरानी करें। समय पर खरपतवार नियंत्रण करें।"
+    }
+  },
+  "10": {
+    "causes": {
+      "en": "Healthy wheat indicates the absence of any major diseases or pest infestations. Proper crop management practices contribute to healthy growth.",
+      "hi": "स्वस्थ गेहूं का मतलब है कि कोई बड़ा रोग या कीट infestation नहीं है। उचित फसल प्रबंधन प्रथाएं स्वस्थ विकास में योगदान करती हैं।"
+    },
+    "solutions": {
+      "en": "Use high-quality seeds of recommended varieties. Follow recommended sowing time and spacing. Apply balanced fertilizers and ensure adequate irrigation. Implement timely weed control measures.",
+      "hi": "अनुशंसित किस्मों के उच्च गुणवत्ता वाले बीजों का उपयोग करें। अनुशंसित बुवाई समय और दूरी का पालन करें। संतुलित उर्वरकों का प्रयोग करें और पर्याप्त सिंचाई सुनिश्चित करें। समय पर खरपतवार नियंत्रण उपाय लागू करें।"
+    }
+  },
+  "11": {
+    "causes": {
+      "en": "Healthy cotton indicates the absence of any major diseases or pest infestations. Proper crop management practices contribute to healthy growth.",
+      "hi": "स्वस्थ कपास का मतलब है कि कोई बड़ा रोग या कीट infestation नहीं है। उचित फसल प्रबंधन प्रथाएं स्वस्थ विकास में योगदान करती हैं।"
+    },
+    "solutions": {
+      "en": "Use certified disease-free seeds. Practice crop rotation. Ensure proper plant spacing. Monitor and manage pests and diseases promptly. Provide adequate irrigation and balanced nutrition.",
+      "hi": "प्रमाणित रोग-मुक्त बीजों का उपयोग करें। फसल चक्र अपनाएं। उचित पौधे की दूरी सुनिश्चित करें। कीटों और रोगों की तुरंत निगरानी और प्रबंधन करें। पर्याप्त सिंचाई और संतुलित पोषण प्रदान करें।"
+    }
+  },
+  "12": {
+    "causes": {
+      "en": "Leaf curl in cotton is caused by a virus transmitted by whiteflies. It causes curling and distortion of leaves, leading to reduced photosynthesis and yield.",
+      "hi": "कपास में लीफ कर्ल रोग एक वायरस के कारण होता है जो सफेद मक्खियों द्वारा फैलता है। इसके कारण पत्तियाँ मुड़ और विकृत हो जाती हैं, जिससे प्रकाश संश्लेषण और उपज कम हो जाती है।"
+    },
+    "solutions": {
+      "en": "Control whitefly populations with insecticides like imidacloprid or buprofezin. Use virus-resistant cotton varieties. Remove and destroy infected plants. Practice good weed control to eliminate alternate hosts.",
+      "hi": "इमिडाक्लोप्रिड या बुप्रोफेज़िन जैसे कीटनाशकों से सफेद मक्खी की आबादी को नियंत्रित करें। वायरस प्रतिरोधी कपास किस्मों का उपयोग करें। संक्रमित पौधों को हटाकर नष्ट कर दें। वैकल्पिक मेजबानों को खत्म करने के लिए खरपतवार नियंत्रण का ध्यान रखें।"
+    }
+  },
+  "13": {
+    "causes": {
+      "en": "Leaf smut in rice is caused by the fungus Entyloma oryzae. It causes black spots on leaves, reducing photosynthetic area.",
+      "hi": "चावल में लीफ स्मट रोग Entyloma oryzae नामक कवक के कारण होता है। इसके कारण पत्तियों पर काले धब्बे हो जाते हैं, जिससे प्रकाश संश्लेषक क्षेत्र कम हो जाता है।"
+    },
+    "solutions": {
+      "en": "Use disease-free seeds. Apply fungicides like mancozeb or copper oxychloride. Practice crop rotation. Remove and destroy infected leaves.",
+      "hi": "रोग-मुक्त बीजों का उपयोग करें। मैनकोज़ेब या कॉपर ऑक्सीक्लोराइड जैसे कवकनाशी का छिड़काव करें। फसल चक्र अपनाएं। संक्रमित पत्तियों को हटाकर नष्ट कर दें।"
+    }
+  },
+  "14": {
+    "causes": {
+      "en": "Mosaic sugarcane is caused by Sugarcane mosaic virus (SCMV). It is transmitted by aphids and infected cuttings, causing yellowing and mottling of leaves.",
+      "hi": "मोज़ेक गन्ना रोग गन्ना मोज़ेक वायरस (SCMV) के कारण होता है। यह एफिड्स और संक्रमित कटिंग द्वारा फैलता है, जिससे पत्तियां पीली और चितकबरी हो जाती हैं।"
+    },
+    "solutions": {
+      "en": "Use virus-free seed cane. Control aphid vectors with insecticides. Remove and destroy infected plants. Practice crop rotation.",
+      "hi": "वायरस-मुक्त बीज गन्ने का उपयोग करें। कीटनाशकों से एफिड वैक्टर को नियंत्रित करें। संक्रमित पौधों को हटाकर नष्ट कर दें। फसल चक्र अपनाएं।"
+    }
+  },
+  "15": {
+    "causes": {
+      "en": "Red rot in sugarcane is caused by the fungus Colletotrichum falcatum. It causes reddish lesions inside the cane, leading to yield loss and reduced sugar content.",
+      "hi": "गन्ने में रेड रोट रोग Colletotrichum falcatum नामक कवक के कारण होता है। इसके कारण गन्ने के अंदर लाल रंग के घाव हो जाते हैं, जिससे उपज में कमी आती है और चीनी की मात्रा कम हो जाती है।"
+    },
+    "solutions": {
+      "en": "Use resistant sugarcane varieties. Select healthy seed cane. Treat seed cane with fungicides. Practice crop rotation. Improve drainage in fields.",
+      "hi": "प्रतिरोधी गन्ना किस्मों का उपयोग करें। स्वस्थ बीज गन्ने का चयन करें। बीज गन्ने को कवकनाशी से उपचारित करें। फसल चक्र अपनाएं। खेतों में जल निकासी में सुधार करें।"
+    }
+  },
+  "16": {
+    "causes": {
+      "en": "Red rust in sugarcane is caused by the alga Cephaleuros henningsii. It appears as reddish-orange lesions on leaves, affecting photosynthesis. High humidity favors its spread.",
+      "hi": "गन्ने में लाल रतुआ रोग Cephaleuros henningsii नामक शैवाल के कारण होता है। यह पत्तियों पर लाल-नारंगी घावों के रूप में दिखाई देता है, जिससे प्रकाश संश्लेषण प्रभावित होता है। उच्च आर्द्रता इसके प्रसार के लिए अनुकूल है।"
+    },
+    "solutions": {
+      "en": "Improve field drainage. Apply copper-based fungicides. Ensure adequate sunlight exposure to reduce humidity. Remove and destroy severely infected leaves.",
+      "hi": "खेत में जल निकासी में सुधार करें। कॉपर-आधारित कवकनाशी का छिड़काव करें। आर्द्रता कम करने के लिए पर्याप्त सूर्य का प्रकाश सुनिश्चित करें। गंभीर रूप से संक्रमित पत्तियों को हटाकर नष्ट कर दें।"
+    }
+  },
+  "17": {
+    "causes": {
+      "en": "Rice blast is caused by the fungus Pyricularia oryzae. It affects leaves, nodes, and panicles, leading to significant yield losses. High humidity and rainfall favor disease development.",
+      "hi": "चावल का झोंका रोग Pyricularia oryzae नामक कवक के कारण होता है। यह पत्तियों, गांठों और बालियों को प्रभावित करता है, जिससे उपज में भारी नुकसान होता है। उच्च आर्द्रता और वर्षा रोग के विकास के लिए अनुकूल होती है।"
+    },
+    "solutions": {
+      "en": "Use resistant rice varieties. Apply fungicides like tricyclazole or azoxystrobin. Avoid excessive nitrogen fertilization. Ensure proper irrigation management.",
+      "hi": "प्रतिरोधी चावल किस्मों का उपयोग करें। ट्राइसाइक्लाज़ोल या एज़ोक्सिस्ट्रोबिन जैसे कवकनाशी का छिड़काव करें। अत्यधिक नाइट्रोजन उर्वरक से बचें। उचित सिंचाई प्रबंधन सुनिश्चित करें।"
+    }
+  },
+  "18": {
+    "causes": {
+      "en": "Healthy sugarcane indicates the absence of any major diseases or pest infestations. Proper crop management practices contribute to healthy growth.",
+      "hi": "स्वस्थ गन्ना का मतलब है कि कोई बड़ा रोग या कीट infestation नहीं है। उचित फसल प्रबंधन प्रथाएं स्वस्थ विकास में योगदान करती हैं।"
+    },
+    "solutions": {
+      "en": "Select disease-free seed cane. Ensure proper spacing and planting depth. Apply balanced fertilizers. Irrigate adequately and manage weeds effectively.",
+      "hi": "रोग मुक्त बीज गन्ने का चयन करें। उचित दूरी और रोपण गहराई सुनिश्चित करें। संतुलित उर्वरकों का प्रयोग करें। पर्याप्त रूप से सिंचाई करें और खरपतवारों को प्रभावी ढंग से प्रबंधित करें।"
+    }
+  },
+  "19": {
+    "causes": {
+      "en": "Tungro in rice is caused by a complex of two viruses, Rice tungro spherical virus (RTSV) and Rice tungro bacilliform virus (RTBV). It is transmitted by green leafhoppers, causing stunting and yellowing.",
+      "hi": "चावल में टुंग्रो रोग दो वायरस, राइस टुंग्रो स्फेरिकल वायरस (RTSV) और राइस टुंग्रो बैसिलिफॉर्म वायरस (RTBV) के एक जटिल के कारण होता है। यह हरे पत्ती के फुदकों द्वारा फैलता है, जिससे बौनापन और पीलापन होता है।"
+    },
+    "solutions": {
+      "en": "Use resistant rice varieties. Control green leafhopper vectors with insecticides. Remove and destroy infected plants. Practice synchronized planting in the area.",
+      "hi": "प्रतिरोधी चावल किस्मों का उपयोग करें। कीटनाशकों से हरे पत्ती के फुदका वैक्टर को नियंत्रित करें। संक्रमित पौधों को हटाकर नष्ट कर दें। क्षेत्र में सिंक्रनाइज़ रोपण करें।"
+    }
+  },
+  "20": {
+    "causes": {
+      "en": "Wheat brown leaf rust is caused by the fungus Puccinia recondita. It causes reddish-brown pustules on leaves, reducing photosynthetic area and yield. Warm, humid conditions favor disease development.",
+      "hi": "गेहूं में भूरा पत्ती रतुआ रोग Puccinia recondita नामक कवक के कारण होता है। यह पत्तियों पर लाल-भूरे रंग के फफोले का कारण बनता है, जिससे प्रकाश संश्लेषक क्षेत्र और उपज कम हो जाती है। गर्म, नम परिस्थितियाँ रोग के विकास के लिए अनुकूल होती हैं।"
+    },
+    "solutions": {
+      "en": "Use rust-resistant wheat varieties. Apply fungicides like propiconazole or tebuconazole. Monitor fields regularly for early detection. Practice crop rotation.",
+      "hi": "रतुआ प्रतिरोधी गेहूं किस्मों का उपयोग करें। प्रोपिकोनाज़ोल या टेबुकोनाज़ोल जैसे कवकनाशी का छिड़काव करें। जल्दी पता लगाने के लिए खेतों की नियमित रूप से निगरानी करें। फसल चक्र अपनाएं।"
+    }
+  },
+  "21": {
+    "causes": {
+      "en": "Wheat stem fly larvae bore into wheat stems, causing them to weaken and lodge, leading to yield loss. Infestation is often higher in dry conditions.",
+      "hi": "गेहूं की तना मक्खी के लार्वा गेहूं के तनों में छेद करते हैं, जिससे वे कमजोर हो जाते हैं और गिर जाते हैं, जिससे उपज का नुकसान होता है। सूखा परिस्थितियों में infestation अक्सर अधिक होता है।"
+    },
+    "solutions": {
+      "en": "Practice early sowing to avoid peak infestation periods. Use resistant varieties if available. Apply insecticides like dimethoate at the appropriate growth stage. Remove and destroy infested stems.",
+      "hi": "संक्रमण की चरम अवधि से बचने के लिए जल्दी बुवाई करें। यदि उपलब्ध हो तो प्रतिरोधी किस्मों का उपयोग करें। उचित विकास अवस्था में डाइमेथोएट जैसे कीटनाशकों का प्रयोग करें। संक्रमित तनों को हटाकर नष्ट कर दें।"
+    }
+  },
+  "22": {
+    "causes": {
+      "en": "Wheat aphids are small, soft-bodied insects that suck sap from wheat plants, causing stunted growth and reduced yield. They can also transmit viruses.",
+      "hi": "गेहूं के एफिड छोटे, कोमल शरीर वाले कीड़े होते हैं जो गेहूं के पौधों से रस चूसते हैं, जिससे पौधों की वृद्धि रुक जाती है और उपज कम हो जाती है। वे वायरस भी संचारित कर सकते हैं।"
+    },
+    "solutions": {
+      "en": "Encourage natural enemies like ladybugs and lacewings. Apply insecticides like pirimicarb or imidacloprid. Monitor fields regularly. Practice good weed control.",
+      "hi": "लेडीबग और लेस विंग्स जैसे प्राकृतिक शत्रुओं को प्रोत्साहित करें। पिरिमिकार्ब या इमिडाक्लोप्रिड जैसे कीटनाशकों का छिड़काव करें। खेतों की नियमित रूप से निगरानी करें। खरपतवार नियंत्रण का ध्यान रखें।"
+    }
+  },
+  "23": {
+    "causes": {
+      "en": "Wheat black rust is caused by the fungus Puccinia graminis f. sp. tritici. It is a highly destructive disease that causes black pustules on stems and leaves, leading to severe yield loss. Cool, humid conditions favor disease development.",
+      "hi": "गेहूं का काला रतुआ रोग Puccinia graminis f. sp. tritici नामक कवक के कारण होता है। यह एक अत्यधिक विनाशकारी रोग है जो तनों और पत्तियों पर काले फफोले का कारण बनता है, जिससे उपज में भारी नुकसान होता है। ठंडा, नम मौसम रोग के विकास के लिए अनुकूल होता है।"
+    },
+    "solutions": {
+      "en": "Use resistant wheat varieties. Apply fungicides like propiconazole or azoxystrobin. Eradicate alternate host plants like barberry. Monitor fields regularly.",
+      "hi": "प्रतिरोधी गेहूं किस्मों का उपयोग करें। प्रोपिकोनाज़ोल या एज़ोक्सिस्ट्रोबिन जैसे कवकनाशी का छिड़काव करें। बारबेरी जैसे वैकल्पिक मेजबान पौधों को नष्ट करें। खेतों की नियमित रूप से निगरानी करें।"
+    }
+  },
+  "24": {
+    "causes": {
+      "en": "Wheat leaf blight is caused by the fungus Septoria tritici. It causes lesions on leaves, reducing photosynthetic area and yield. Wet conditions favor disease development.",
+      "hi": "गेहूं का पत्ती झुलसा रोग Septoria tritici नामक कवक के कारण होता है। यह पत्तियों पर घाव का कारण बनता है, जिससे प्रकाश संश्लेषक क्षेत्र और उपज कम हो जाती है। गीली परिस्थितियाँ रोग के विकास के लिए अनुकूल होती हैं।"
+    },
+    "solutions": {
+      "en": "Use resistant wheat varieties. Apply fungicides like tebuconazole or chlorothalonil. Practice crop rotation. Remove and destroy infected crop residue.",
+      "hi": "प्रतिरोधी गेहूं किस्मों का उपयोग करें। टेबुकोनाज़ोल या क्लोरोथालोनिल जैसे कवकनाशी का छिड़काव करें। फसल चक्र अपनाएं। संक्रमित फसल अवशेषों को हटाकर नष्ट कर दें।"
+    }
+  },
+  "25": {
+    "causes": {
+      "en": "Wheat mite infestation can cause significant damage to wheat crops. These tiny pests suck plant sap, leading to stunted growth, leaf discoloration, and reduced yield. Hot and dry conditions often exacerbate mite problems.",
+      "hi": "गेहूं के कण का संक्रमण गेहूं की फसलों को महत्वपूर्ण नुकसान पहुंचा सकता है। ये छोटे कीट पौधों का रस चूसते हैं, जिससे पौधों की वृद्धि रुक जाती है, पत्तियां फीकी पड़ जाती हैं और उपज कम हो जाती है। गर्म और शुष्क परिस्थितियाँ अक्सर कण की समस्याओं को बढ़ा देती हैं।"
+    },
+    "solutions": {
+      "en": "Use predatory mites or other biological control agents. Apply miticides like abamectin or spiromesifen. Ensure adequate irrigation to reduce plant stress. Remove crop residues after harvest.",
+      "hi": "परभक्षी कण या अन्य जैविक नियंत्रण एजेंटों का उपयोग करें। एबामेक्टिन या स्पाइरोमेसिफेन जैसे माइटिसाइड का छिड़काव करें। पौधों पर तनाव कम करने के लिए पर्याप्त सिंचाई सुनिश्चित करें। कटाई के बाद फसल अवशेषों को हटा दें।"
+    }
+  },
+  "26": {
+    "causes": {
+      "en": "Wheat powdery mildew is caused by the fungus Blumeria graminis f. sp. tritici. It appears as white to gray powdery growth on leaves and stems, reducing photosynthesis. Cool, humid conditions favor disease development.",
+      "hi": "गेहूं का चूर्णिल फफूंद रोग Blumeria graminis f. sp. tritici नामक कवक के कारण होता है। यह पत्तियों और तनों पर सफेद से भूरे रंग की चूर्णिल वृद्धि के रूप में दिखाई देता है, जिससे प्रकाश संश्लेषण कम हो जाता है। ठंडा, नम मौसम रोग के विकास के लिए अनुकूल होता है।"
+    },
+    "solutions": {
+      "en": "Use resistant wheat varieties. Apply fungicides like propiconazole or tebuconazole. Ensure adequate plant spacing for airflow. Monitor fields regularly.",
+      "hi": "प्रतिरोधी गेहूं किस्मों का उपयोग करें। प्रोपिकोनाज़ोल या टेबुकोनाज़ोल जैसे कवकनाशी का छिड़काव करें। हवा के प्रवाह के लिए पर्याप्त पौधे की दूरी सुनिश्चित करें। खेतों की नियमित रूप से निगरानी करें।"
+    }
+  },
+  "27": {
+    "causes": {
+      "en": "Wheat scab, also known as head blight, is caused by the fungus Fusarium graminearum. It infects wheat heads, leading to shriveled grains and yield loss. Warm, humid conditions during flowering favor disease development. The fungus also produces mycotoxins.",
+      "hi": "गेहूं का स्कैब, जिसे हेड ब्लाइट भी कहा जाता है, Fusarium graminearum नामक कवक के कारण होता है। यह गेहूं के सिरों को संक्रमित करता है, जिससे दाने सिकुड़ जाते हैं और उपज का नुकसान होता है। फूल आने के दौरान गर्म, नम परिस्थितियाँ रोग के विकास के लिए अनुकूल होती हैं। कवक मायकोटॉक्सिन भी पैदा करता है।"
+    },
+    "solutions": {
+      "en": "Use resistant wheat varieties. Apply fungicides like tebuconazole or prothioconazole at flowering. Practice crop rotation with non-host crops. Use disease-free seeds. Manage crop residue.",
+      "hi": "प्रतिरोधी गेहूं किस्मों का उपयोग करें। फूल आने पर टेबुकोनाज़ोल या प्रोथियोकोनाज़ोल जैसे कवकनाशी का छिड़काव करें। गैर-होस्ट फसलों के साथ फसल चक्र अपनाएं। रोग मुक्त बीजों का उपयोग करें। फसल अवशेषों का प्रबंधन करें।"
+    }
+  },
+  "28": {
+    "causes": {
+      "en": "Wheat yellow rust is caused by the fungus Puccinia striiformis f. sp. tritici. It causes yellow stripes on leaves, reducing photosynthesis and yield. Cool, humid conditions favor disease development.",
+      "hi": "गेहूं का पीला रतुआ रोग Puccinia striiformis f. sp. tritici नामक कवक के कारण होता है। यह पत्तियों पर पीली धारियों का कारण बनता है, जिससे प्रकाश संश्लेषण और उपज कम हो जाती है। ठंडा, नम मौसम रोग के विकास के लिए अनुकूल होता है।"
+    },
+    "solutions": {
+      "en": "Use resistant wheat varieties. Apply fungicides like propiconazole or azoxystrobin. Monitor fields regularly for early detection. Practice crop rotation.",
+      "hi": "प्रतिरोधी गेहूं किस्मों का उपयोग करें। प्रोपिकोनाज़ोल या एज़ोक्सिस्ट्रोबिन जैसे कवकनाशी का छिड़काव करें। जल्दी पता लगाने के लिए खेतों की नियमित रूप से निगरानी करें। फसल चक्र अपनाएं।"
+    }
+  },
+  "29": {
+    "causes": {
+      "en": "Wilt in cotton is caused by fungi such as Fusarium oxysporum f. sp. vasinfectum and Verticillium dahliae. These soil-borne pathogens block water and nutrient uptake, causing plants to wilt and die. It is more severe in susceptible varieties and in infested soils.",
+      "hi": "कपास में विल्ट रोग Fusarium oxysporum f. sp. vasinfectum और Verticillium dahliae जैसे कवक के कारण होता है। ये मिट्टी जनित रोगजनक पानी और पोषक तत्वों के अवशोषण को रोकते हैं, जिससे पौधे मुरझा जाते हैं और मर जाते हैं। यह susceptible किस्मों और संक्रमित मिट्टी में अधिक गंभीर है।"
+    },
+    "solutions": {
+      "en": "Use wilt-resistant cotton varieties. Practice crop rotation with non-host crops. Apply soil fumigants in heavily infested fields. Ensure proper irrigation to reduce plant stress. Practice field sanitation.",
+      "hi": "विल्ट प्रतिरोधी कपास किस्मों का उपयोग करें। गैर-होस्ट फसलों के साथ फसल चक्र अपनाएं। भारी संक्रमित खेतों में मिट्टी fumigants लागू करें। पौधों पर तनाव कम करने के लिए उचित सिंचाई सुनिश्चित करें। खेत स्वच्छता का अभ्यास करें।"
+    }
+  },
+  "30": {
+    "causes": {
+      "en": "Yellow rust in sugarcane is caused by the fungus Puccinia melanocephala. It causes yellow pustules on the leaves, reducing photosynthetic area. High humidity and moderate temperatures favor disease development.",
+      "hi": "गन्ने में पीला रतुआ रोग Puccinia melanocephala नामक कवक के कारण होता है। यह पत्तियों पर पीले फफोले का कारण बनता है, जिससे प्रकाश संश्लेषक क्षेत्र कम हो जाता है। उच्च आर्द्रता और मध्यम तापमान रोग के विकास के लिए अनुकूल होते हैं।"
+    },
+    "solutions": {
+      "en": "Use resistant sugarcane varieties. Apply fungicides like propiconazole. Monitor fields regularly. Practice crop rotation.",
+      "hi": "प्रतिरोधी गन्ना किस्मों का उपयोग करें। प्रोपिकोनाज़ोल जैसे कवकनाशी का छिड़काव करें। खेतों की नियमित रूप से निगरानी करें। फसल चक्र अपनाएं।"
+    }
+  },
+  "31": {
+    "causes": {
+      "en": "Bacterial blight in cotton is caused by Xanthomonas citri pv. malvacearum. It causes angular leaf spots, boll rot, and seedling blight. Humid and wet conditions favor disease development. It is spread by infected seeds and rain splash.",
+      "hi": "कपास में बैक्टीरियल ब्लाइट Xanthomonas citri pv. malvacearum के कारण होता है। यह कोणीय पत्ती धब्बे, boll रोट और अंकुर blight का कारण बनता है। नम और गीली परिस्थितियाँ रोग के विकास के लिए अनुकूल होती हैं। यह संक्रमित बीजों और बारिश की छींटों से फैलता है।"
+    },
+    "solutions": {
+      "en": "Use disease-free certified seeds. Apply copper-based bactericides. Practice crop rotation with non-host crops. Avoid overhead irrigation. Remove and destroy infected plant debris.",
+      "hi": "रोग मुक्त प्रमाणित बीजों का उपयोग करें। कॉपर-आधारित जीवाणुनाशकों का छिड़काव करें। गैर-होस्ट फसलों के साथ फसल चक्र अपनाएं। ओवरहेड सिंचाई से बचें। संक्रमित पौधों के मलबे को हटाकर नष्ट कर दें।"
+    }
+  },
+  "32": {
+    "causes": {
+      "en": "Boll rot in cotton can be caused by a complex of fungal and bacterial pathogens, including species of Fusarium, Aspergillus, and Xanthomonas. It leads to rotting of cotton bolls, reducing yield and fiber quality. High humidity, insect damage, and bollworm infestations exacerbate the condition.",
+      "hi": "कपास में boll रोट कवक और जीवाणु रोगजनकों के एक जटिल के कारण हो सकता है, जिसमें Fusarium, Aspergillus और Xanthomonas की प्रजातियां शामिल हैं। यह कपास की boll के सड़ने की ओर जाता है, जिससे उपज और फाइबर की गुणवत्ता कम हो जाती है। उच्च आर्द्रता, कीट क्षति, और bollworm infestations स्थिति को बढ़ा देते हैं।"
+    },
+    "solutions": {
+      "en": "Control bollworm and other boll-damaging insects. Apply fungicides and bactericides as preventive sprays. Ensure proper field drainage. Promote good airflow within the canopy. Harvest bolls promptly.",
+      "hi": "Bollworm और अन्य boll को नुकसान पहुंचाने वाले कीड़ों को नियंत्रित करें। निवारक स्प्रे के रूप में कवकनाशी और जीवाणुनाशक लागू करें। उचित खेत जल निकासी सुनिश्चित करें। चंदवा के भीतर अच्छा airflow बढ़ावा दें। Boll को तुरंत फसल करें।"
+    }
+  },
+  "33": {
+    "causes": {
+      "en": "Bollworm on cotton refers to the infestation of various lepidopteran larvae, primarily Helicoverpa armigera, which feed on cotton bolls, causing significant yield loss. The moths lay eggs on the cotton plants, and the hatching larvae bore into the bolls.",
+      "hi": "कपास पर Bollworm विभिन्न lepidopteran लार्वा, मुख्य रूप से Helicoverpa armigera के infestation को संदर्भित करता है, जो कपास की bolls पर फ़ीड करते हैं, जिससे महत्वपूर्ण उपज का नुकसान होता है। पतंगे कपास के पौधों पर अंडे देते हैं, और hatching लार्वा bolls में छेद करते हैं।"
+    },
+    "solutions": {
+      "en": "Use pheromone traps for monitoring and mass trapping. Apply biopesticides like Bacillus thuringiensis (Bt). Employ integrated pest management (IPM) practices. Use selective insecticides to conserve beneficial insects.",
+      "hi": "निगरानी और बड़े पैमाने पर trapping के लिए pheromone traps का उपयोग करें। Bacillus thuringiensis (Bt) जैसे जैव कीटनाशकों को लागू करें। एकीकृत कीट प्रबंधन (IPM) प्रथाओं को नियोजित करें। लाभकारी कीड़ों के संरक्षण के लिए चुनिंदा कीटनाशकों का उपयोग करें।"
+    }
+  },
+  "34": {
+    "causes": {
+      "en": "Cotton mealybugs are small, soft-bodied, sap-sucking insects that infest cotton plants, causing stunted growth, leaf curling, and reduced lint quality. They secrete honeydew, leading to sooty mold growth.",
+      "hi": "कपास mealybugs छोटे, कोमल शरीर वाले, रस चूसने वाले कीड़े हैं जो कपास के पौधों पर हमला करते हैं, जिससे पौधों की वृद्धि रुक जाती है, पत्तियां मुड़ जाती हैं, और कपास की गुणवत्ता कम हो जाती है। वे honeydew स्रावित करते हैं, जिससे कालिख जैसा फफूंद विकास होता है।"
+    },
+    "solutions": {
+      "en": "Introduce natural enemies like lady beetles and parasitoid wasps. Apply insecticidal soap or neem oil. Use systemic insecticides like thiamethoxam for severe infestations. Practice ant control, as ants protect mealybugs.",
+      "hi": "लेडी बीटल और परजीवी ततैया जैसे प्राकृतिक शत्रुओं को पेश करें। कीटनाशक साबुन या नीम का तेल लागू करें। गंभीर infestations के लिए thiamethoxam जैसे प्रणालीगत कीटनाशकों का उपयोग करें। चींटी नियंत्रण का अभ्यास करें, क्योंकि चींटियां mealybugs की रक्षा करती हैं।"
+    }
+  },
+  "35": {
+    "causes": {
+      "en": "Cotton whitefly (Bemisia tabaci) is a major pest that sucks sap from cotton plants, weakening them. Whiteflies also transmit Cotton leaf curl virus, causing significant yield loss. They thrive in warm climates.",
+      "hi": "कपास whitefly (Bemisia tabaci) एक प्रमुख कीट है जो कपास के पौधों से रस चूसता है, जिससे वे कमजोर हो जाते हैं। Whiteflies कपास पत्ती कर्ल वायरस भी संचारित करते हैं, जिससे महत्वपूर्ण उपज का नुकसान होता है। वे गर्म जलवायु में पनपते हैं।"
+    },
+    "solutions": {
+      "en": "Use yellow sticky traps to monitor and reduce whitefly populations. Apply insecticides like buprofezin or pyriproxyfen. Encourage natural predators like lacewings. Manage weeds, which serve as alternate hosts.",
+      "hi": "Whitefly आबादी की निगरानी और कमी के लिए पीले चिपचिपे जाल का उपयोग करें। Buprofezin या pyriproxyfen जैसे कीटनाशकों को लागू करें। Lacewings जैसे प्राकृतिक शिकारियों को प्रोत्साहित करें। खरपतवारों का प्रबंधन करें, जो वैकल्पिक मेजबान के रूप में काम करते हैं।"
+    }
+  },
+  "36": {
+    "causes": {
+      "en": "Maize ear rot can be caused by several fungi, including Fusarium, Gibberella, and Aspergillus. It results in moldy, discolored, and damaged kernels, reducing grain quality and yield. Warm, humid conditions and insect damage promote the disease.",
+      "hi": "मक्का कान सड़न कई कवक के कारण हो सकता है, जिसमें Fusarium, Gibberella और Aspergillus शामिल हैं। इसके परिणामस्वरूप दाने moldy, विकृत और क्षतिग्रस्त हो जाते हैं, जिससे अनाज की गुणवत्ता और उपज कम हो जाती है। गर्म, नम परिस्थितियाँ और कीट क्षति रोग को बढ़ावा देती हैं।"
+    },
+    "solutions": {
+      "en": "Plant resistant maize varieties. Practice crop rotation. Apply fungicides during flowering. Control ear-boring insects. Ensure proper storage conditions to prevent further mold growth.",
+      "hi": "प्रतिरोधी मक्का किस्मों के पौधे लगाएं। फसल चक्र का अभ्यास करें। फूल आने के दौरान कवकनाशी लागू करें। कान-boring कीड़ों को नियंत्रित करें। आगे फफूंद वृद्धि को रोकने के लिए उचित भंडारण की स्थिति सुनिश्चित करें।"
+    }
+  },
+  "37": {
+    "causes": {
+      "en": "Maize fall armyworm (Spodoptera frugiperda) is a highly destructive pest that feeds on various parts of the maize plant, including leaves, stems, and ears. Heavy infestations can lead to significant yield loss. The moths are highly mobile and can spread rapidly.",
+      "hi": "मक्का fall armyworm (Spodoptera frugiperda) एक अत्यधिक विनाशकारी कीट है जो मक्का के पौधे के विभिन्न हिस्सों, जैसे पत्तियों, तनों और कानों पर फ़ीड करता है। भारी infestations से महत्वपूर्ण उपज का नुकसान हो सकता है। पतंगे अत्यधिक मोबाइल होते हैं और तेजी से फैल सकते हैं।"
+    },
+    "solutions": {
+      "en": "Use pheromone traps for monitoring. Apply insecticides like emamectin benzoate or chlorantraniliprole. Employ biological control with parasitoids and predators. Practice intercropping with non-host plants.",
+      "hi": "निगरानी के लिए pheromone traps का उपयोग करें। Emamectin benzoate या chlorantraniliprole जैसे कीटनाशकों को लागू करें। परजीवी और शिकारियों के साथ जैविक नियंत्रण को नियोजित करें। गैर-मेजबान पौधों के साथ अंतः फसल का अभ्यास करें।"
+    }
+  },
+  "38": {
+    "causes": {
+      "en": "Maize stem borer larvae bore into maize stems, weakening them and disrupting nutrient flow, which leads to stunted growth and yield reduction. Several moth species can cause this damage.",
+      "hi": "मक्का stem borer लार्वा मक्का के तनों में छेद करते हैं, जिससे वे कमजोर हो जाते हैं और पोषक तत्वों का प्रवाह बाधित होता है, जिससे पौधों की वृद्धि रुक जाती है और उपज कम हो जाती है। कई पतंग प्रजातियां यह नुकसान पहुंचा सकती हैं।"
+    },
+    "solutions": {
+      "en": "Apply insecticides like chlorpyrifos or lambda-cyhalothrin. Use biological control agents like Trichogramma wasps. Remove and destroy infested plants. Practice crop rotation.",
+      "hi": "Chlorpyrifos या lambda-cyhalothrin जैसे कीटनाशकों को लागू करें। Trichogramma ततैया जैसे जैविक नियंत्रण एजेंटों का उपयोग करें। संक्रमित पौधों को हटाकर नष्ट कर दें। फसल चक्र का अभ्यास करें।"
+    }
+  },
+  "39": {
+    "causes": {
+      "en": "Pink bollworm (Pectinophora gossypiella) is a major pest of cotton. The larvae feed on the cotton bolls, damaging the fibers and seeds, which reduces yield and quality. Infestations are more severe in long-season cotton.",
+      "hi": "गुलाबी bollworm (Pectinophora gossypiella) कपास का एक प्रमुख कीट है। लार्वा कपास की bolls पर फ़ीड करते हैं, फाइबर और बीज को नुकसान पहुंचाते हैं, जिससे उपज और गुणवत्ता कम हो जाती है। Infestations लंबे समय तक चलने वाले कपास में अधिक गंभीर होते हैं।"
+    },
+    "solutions": {
+      "en": "Use pheromone traps for mating disruption. Plant Bt cotton varieties. Apply insecticides like spinosad or indoxacarb. Practice crop rotation. Destroy crop residues after harvest.",
+      "hi": "संभोग व्यवधान के लिए pheromone traps का उपयोग करें। Bt कपास किस्में लगाएं। Spinosad या indoxacarb जैसे कीटनाशकों को लागू करें। फसल चक्र का अभ्यास करें। कटाई के बाद फसल अवशेषों को नष्ट कर दें।"
+    }
+  },
+  "40": {
+    "causes": {
+      "en": "Red cotton bug (Dysdercus cingulatus) is a pest that feeds on cotton bolls, causing staining and reducing fiber quality. They also transmit diseases. Infestations are common in tropical regions.",
+      "hi": "लाल कपास बग (Dysdercus cingulatus) एक कीट है जो कपास की bolls पर फ़ीड करता है, जिससे धुंधला हो जाता है और फाइबर की गुणवत्ता कम हो जाती है। वे रोग भी संचारित करते हैं। Infestations उष्णकटिबंधीय क्षेत्रों में आम हैं।"
+    },
+    "solutions": {
+      "en": "Apply insecticides like acephate or dimethoate. Collect and destroy infested bolls. Practice good field sanitation. Control weeds, which can serve as alternate hosts.",
+      "hi": "Acephate या dimethoate जैसे कीटनाशकों को लागू करें। संक्रमित bolls को एकत्र करके नष्ट कर दें। अच्छा खेत स्वच्छता का अभ्यास करें। खरपतवारों को नियंत्रित करें, जो वैकल्पिक मेजबान के रूप में काम कर सकते हैं।"
+    }
+  },
+  "41": {
+    "causes": {
+      "en": "Thrips are tiny, slender insects that feed on cotton leaves and buds, causing silvering, distortion, and reduced growth. Severe infestations can lead to significant yield loss, especially in dry conditions.",
+      "hi": "थ्रिप्स छोटे, पतले कीड़े हैं जो कपास की पत्तियों और कलियों पर फ़ीड करते हैं, जिससे silvering, विकृति और कम वृद्धि होती है। शुष्क परिस्थितियों में गंभीर infestations से महत्वपूर्ण उपज का नुकसान हो सकता है।"
+    },
+    "solutions": {
+      "en": "Apply insecticides like imidacloprid or acetamiprid. Use blue sticky traps to monitor and trap thrips. Encourage natural enemies like predatory mites. Ensure adequate irrigation.",
+      "hi": "Imidacloprid या acetamiprid जैसे कीटनाशकों को लागू करें। थ्रिप्स की निगरानी और जाल के लिए नीले चिपचिपे जाल का उपयोग करें। परभक्षी कण जैसे प्राकृतिक शत्रुओं को प्रोत्साहित करें। पर्याप्त सिंचाई सुनिश्चित करें।"
+    }
+  }
+}

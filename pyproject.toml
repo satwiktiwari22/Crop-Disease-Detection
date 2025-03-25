@@ -1,0 +1,14 @@
+[project]
+name = "crop-disease-detection"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115.12",
+    "pillow>=11.1.0",
+    "python-multipart>=0.0.20",
+    "torch>=2.6.0",
+    "torchvision>=0.21.0",
+    "uvicorn>=0.34.0",
+]
